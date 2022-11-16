@@ -1,0 +1,23 @@
+{
+	"name": "async-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": " gh-pages -d src "
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Yens-Rosero/async-api.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Yens-Rosero/async-api/issues"
+	},
+	"homepage": "https://github.com/Yens-Rosero/async-api#readme",
+	"dependencies": {
+		"gh-pages": "^4.0.0"
+	}
+}
